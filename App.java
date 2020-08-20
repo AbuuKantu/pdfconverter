@@ -11,10 +11,6 @@ import org.apache.poi.xwpf.usermodel.XWPFDocument;
 import fr.opensagres.poi.xwpf.converter.pdf.PdfConverter;
 import fr.opensagres.poi.xwpf.converter.pdf.PdfOptions;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
